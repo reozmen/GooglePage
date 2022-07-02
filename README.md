@@ -13,6 +13,6 @@ Google Page Project te bulunan klasör ve dosyalar:
 - README.md
   
 
-![Proje Resmi](./assets/Project.PNG)
+![Proje Resmi](./assets/project.png)
 
 [Proje Github Link](https://reozmen.github.io/GooglePage/)
