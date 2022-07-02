@@ -16,7 +16,7 @@
 }
 
 .navbar-left-li a {
-  color:black;
+  color:#6e7174;
   padding: 5px 5px;
   text-decoration: none;
 }
@@ -39,7 +39,7 @@
 
 
 .navbar-right-li a {
-  color:black;
+  color:#6e7174;
   padding: 5px 5px;
   text-decoration: none;
   
@@ -55,6 +55,16 @@
   clear: both;
 }
 
+.signin{
+  background-color: rgb(43,125,233);
+  color: white;
+  border: none;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+
+}
 
 /* ************************ */
 
@@ -165,6 +175,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .googlesearch {
   height: 30px;
+  width: 180px;
   margin: 0 3px;
   padding: 0 16px;
   text-align: center;
@@ -174,6 +185,9 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .buton {
   border-style: none;
+  background-color: #e4e7ed;
+  font-size: 16px;
+  border: 5px;
 }
 
 .buton:hover {
@@ -182,6 +196,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .feelinglucky {
   height: 30px;
+  width: 180px;
   margin: 0 3px;
   padding: 0 16px;
   text-align: center;
@@ -201,6 +216,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   width: 100%;
   line-height: 10px;
   clear: both;
+  background-color: #e4e7ed;
   
 }
 
@@ -221,7 +237,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .footerli a {
   display: block;
-  color: #70757a;
+  color: #6e7174;
   text-align: center;
   padding: 5px 5px;
   text-decoration: none;
